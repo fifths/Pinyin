@@ -4,7 +4,7 @@
  * Date: 15-10-27
  */
 
-require "../vendor/autoload.php";
+require __DIR__."/../vendor/autoload.php";
 
 $pinyin=new \Pinyin\Pinyin();
 

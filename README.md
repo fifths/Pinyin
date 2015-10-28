@@ -4,14 +4,13 @@
 
 or
 
->composer.json
+composer.json
 
     {
         "require": {
             "fifths/pinyin": "*@dev"
         }
     }
-
 
 >composer udpate
 

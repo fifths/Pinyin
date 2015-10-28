@@ -4,16 +4,16 @@
 
 or
 
-composer.json
+>composer.json
 
-> {
->    "require": {
->    "fifths/pinyin": "*@dev"
->   }
-> }
+    {
+        "require": {
+            "fifths/pinyin": "*@dev"
+        }
+    }
 
 
-composer udpate
+>composer udpate
 
 
     $pinyin=new \Pinyin\Pinyin();

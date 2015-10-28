@@ -1,6 +1,6 @@
 <?php
 
-namespace Fifths\Pinyin;
+namespace Pinyin;
 /**
  * User: lee
  */

@@ -15,5 +15,5 @@ echo $str2,'<br />';
 $str3=$pinyin->GetPinyin("囧字测试",0);
 echo $str3,'<br />';*/
 
-$wordlist=new \Pinyin\WordsList();
-print_r($wordsplit->splitwords('外盘暴涨难敌调控之忧 沪指再创年度新低'));
+$test=new \Pinyin\Abc();
+$str1=$test->GetPinyin("宁");

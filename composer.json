@@ -1,5 +1,5 @@
 {
-    "name": "fifths/pinyin",
+    "name": "fifths/php-pinyin",
     "description": "php pinyin class",
     "license": "MIT",
     "authors": [
@@ -14,5 +14,11 @@
         "psr-4": {
             "Pinyin\\": "src/Pinyin/"
         }
+    },
+    "repositories": {
+    "packagist": {
+        "type": "composer",
+        "url": "https://packagist.phpcomposer.com"
     }
+}
 }
